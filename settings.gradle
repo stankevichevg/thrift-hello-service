@@ -1,0 +1,8 @@
+rootProject.name = 'hello-service'
+
+include 'hello-interface'
+
+include 'hello-backend'
+
+include 'hello-client'
+
